@@ -1,11 +1,94 @@
 {
-  "posts": [
+  "Alumnos": [
     {
       "id": 1,
-      "title": "hello"
+      "usuario": "pe.aros@duocuc.cl",
+      "contraseña": "1234"
+    },
+    {
+      "id": 2,
+      "usuario": "fe.araneda@duocuc.cl",
+      "contraseña": "1234"
+    },
+    {
+      "id": 3,
+      "usuario": "fa.carte@duocuc.cl",
+      "contraseña": "1234"
+    },
+    {
+      "id": 4,
+      "usuario": "ma.vargas@duocuc.cl",
+      "contraseña": "1234"
+    },
+    {
+      "id": 5,
+      "usuario": "cr.cayuan@duocuc.cl",
+      "contraseña": "1234"
+    },
+    {
+      "id": 6,
+      "usuario": "en.soto@duocuc.cl",
+      "contraseña": "1234"
+    },
+    {
+      "id": 7,
+      "usuario": "Ju.perez@duocuc.cl",
+      "contraseña": "1234"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+
+
+
+
+  "Docentes": [
+    {
+      "id": 1,
+      "nombre": "Ju.rojos@profeduocuc.cl",
+      "contraseña": "1234"
+     
+    },
+    {
+      "id": 2,
+      "nombre": "ma.sotos@profeduocuc.cl",
+      "contraseña": "1234"
+     
+    },
+    {
+      "id": 3,
+      "nombre": "ro.ahumada@profeduocuc.cl",
+      "contraseña": "1234"
+     
+    },
+    {
+      "id": 4,
+      "nombre": "pe.perez@profeduocuc.cl",
+      "contraseña": "1234"
+     
+    },
+    {
+      "id": 5,
+      "nombre": "mj.duarte@profeduocuc.cl",
+      "contraseña": "1234"
+     
+    },
+    {
+      "id": 6,
+      "nombre": "cris.toro@profeduocuc.cl",
+      "contraseña": "1234"
+     
+    },
+    {
+      "id": 7,
+      "nombre": "cr.venegas@profeduocuc.cl",
+      "contraseña": "1234"
+     
+    },
+    {
+      "id": 8,
+      "nombre": "pe.sanchez@profeduocuc.cl",
+      "contraseña": "1234"
+    }
+  ]
+
+
 }
